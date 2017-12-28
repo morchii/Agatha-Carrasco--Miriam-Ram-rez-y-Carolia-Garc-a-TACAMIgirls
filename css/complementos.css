@@ -1,0 +1,42 @@
+div.container h1{
+  font-size: 72px;
+  font-family: "Courier New";
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+
+.container{
+  background-image: url("https://static.tumblr.com/b41b192f7c5ac2356fa364f1839e643d/28llakc/yPSnoapfz/tumblr_static_tumblr_static_dpy3npht68g8kowco4okkc4wg_640.gif");
+}
+
+.container h2{
+    border-top: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    border-bottom: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    font-size: 24;
+}
+
+.container h3{
+    border-top: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    border-bottom: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    font-size: 24;
+}
+.container h4{
+    border-top: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    border-bottom: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    font-size: 24;
+}
+.container h5{
+    border-top: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    border-bottom: 10px groove LightSkyBlue;
+    margin-top: 50px;
+    font-size: 24;
+}
